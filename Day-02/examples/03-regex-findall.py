@@ -1,5 +1,5 @@
 import re
-
+# for logs devops person will use to check error pattern word
 text = "The quick brown fox"
 pattern = r"brown"
 
